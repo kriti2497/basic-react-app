@@ -1,5 +1,5 @@
 import React from "react";
-import Wrapper from "../Helpers/Wrapper";
+// import Wrapper from "../Helpers/Wrapper";
 import Button from "./Button";
 import Card from "./Card";
 import ReactDOM from "react-dom";
